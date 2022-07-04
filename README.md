@@ -84,5 +84,4 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>-->
 
-<!--[icons8-slack-new-48 (1)](https://user-images.githubusercontent.com/101162407/177199259-d05ebd8c-35e6-4d22-b9f7-59b12b6c1f28.png)-->
-![icons8-intellij-idea-48](https://user-images.githubusercontent.com/101162407/177200877-e96331f9-9daa-4468-b1c9-f4908b27f452.png)
+
