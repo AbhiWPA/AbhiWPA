@@ -70,6 +70,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abhishek-ashinsa-4951201b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://app.slack.com/client/T03M6EB67PT/D03LKCWU5MM/rimeto_profile/U03M2D2A420/"><img src="https://user-images.githubusercontent.com/101162407/177199259-d05ebd8c-35e6-4d22-b9f7-59b12b6c1f28.png"/></a>
 <!--<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>-->
@@ -82,3 +83,4 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>-->
 
+<!--[icons8-slack-new-48 (1)](https://user-images.githubusercontent.com/101162407/177199259-d05ebd8c-35e6-4d22-b9f7-59b12b6c1f28.png)-->
