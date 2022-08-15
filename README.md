@@ -83,7 +83,7 @@
 <a href = "https://app.slack.com/client/T03M6EB67PT/D03LKCWU5MM/rimeto_profile/U03M2D2A420/"><img src="https://user-images.githubusercontent.com/101162407/177199259-d05ebd8c-35e6-4d22-b9f7-59b12b6c1f28.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## 👍 Views and Followers
 <a href="https://github.com/AbhiWPA/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=AbhiWPA">
 </a>
