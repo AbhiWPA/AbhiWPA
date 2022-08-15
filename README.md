@@ -78,6 +78,7 @@
 
 <a href = "https://www.linkedin.com/in/abhishek-ashinsa-4951201b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/abhishek.ashinsa.3"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
+<a href = "https://www.facebook.com/abhishek.ashinsa.3"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
 <a href = "https://app.slack.com/client/T03M6EB67PT/D03LKCWU5MM/rimeto_profile/U03M2D2A420/"><img src="https://user-images.githubusercontent.com/101162407/177199259-d05ebd8c-35e6-4d22-b9f7-59b12b6c1f28.png"/></a>
 </p>
 
