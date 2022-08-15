@@ -79,6 +79,7 @@
 <a href = "https://www.linkedin.com/in/abhishek-ashinsa-4951201b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/abhishek.ashinsa.3"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
 <a href = "https://www.instagram.com/invites/contact/?i=n12dfgv4082b&utm_content=2gyxrnn"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
+<a href = "https://www.hackerrank.com/abhiashinsa770?hr_r=1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a>
 <a href = "https://app.slack.com/client/T03M6EB67PT/D03LKCWU5MM/rimeto_profile/U03M2D2A420/"><img src="https://user-images.githubusercontent.com/101162407/177199259-d05ebd8c-35e6-4d22-b9f7-59b12b6c1f28.png"/></a>
 </p>
 
@@ -86,5 +87,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>-->
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>https://repository-images.githubusercontent.com/253395053/f2f38a80-8182-11ea-8059-91f14f9a3274-->
 
